@@ -1,4 +1,8 @@
 # Portfolio Site
+![Pictue](Assets/web.png)
+
+[link to site!](https://juliabridgforth.github.io/Julia_Bio/)
+
 This is my portfolio website. 
 
 ## It includes:
